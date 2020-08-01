@@ -2,3 +2,5 @@ node_modules
 config
 playground
 mongodb.js
+tests/math.test.js
+src/math.js
